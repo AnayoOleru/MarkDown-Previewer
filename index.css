@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+  }
+  
+  #editor {
+    width: 30%;
+  }
+  
+  #preview {
+    width: 50%;
+    margin-left: 25px;
+  }
+  
